@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "type": "LuaModule",
+    "author": "Matt Campbell - mc@ipmc.io",
+    "required version": "9.12.0"
+}

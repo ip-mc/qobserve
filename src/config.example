@@ -1,0 +1,15 @@
+{
+    "service": "splunk",
+    "events": {
+        "components": [
+            {
+                "componentNames": ["all"],
+                "controlNames": ["status"]
+            },
+            {
+	            "componentNames": ["Src-1", "Src-2"],
+                "controlNames": ["5v", "input.format"]
+            }
+        ]
+    }
+}
