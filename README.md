@@ -26,7 +26,7 @@ To get started read the [docs](docs/table-of-contents.md)
 ---
 ## Roadmap
 - [ ] Other observability platform implementations
-	- [ ] Grafana
+	- [ ] Prometheus
 	- [ ] Graylog
 	- [ ] InfluxDB
 - [ ] Metric Data
@@ -35,6 +35,9 @@ To get started read the [docs](docs/table-of-contents.md)
 	- Send snapshots of design states (or whatever data you want) at a defined interval
 - [ ] System Logs
 	- Pull and log the OS logs to analyze against application data
+- [ ] Ignore messages
+- [ ] Friendly name config
+    - i.e 5v = true - "HDMI Connected"
 
 ---
 ## Contributing
