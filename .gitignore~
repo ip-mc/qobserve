@@ -1,7 +1,0 @@
-.obsidian/
-.secrets/
-src/config.json
-src/secrets.json
-scripts/.env
-venv
-cores.txt
