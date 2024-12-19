@@ -5,4 +5,3 @@ src/secrets.json
 scripts/.env
 venv
 cores.txt
-errors.txt
